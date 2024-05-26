@@ -39,8 +39,8 @@ Your portfolio will be evaluated based on the following criteria:
 
 #### Submission Guidelines
 
-- Submit your project as a ZIP file containing all the necessary files (HTML, CSS, JavaScript, images, etc.).
-- Ensure your project is well-documented, including a README file with instructions on how to view the site locally.
+- Submit your project GitHub link to the CDV05 Project Tab.
+- Ensure your project is well-documented, including a README file with instructions on how to view the site locally (if not yet deployed live).
 
 ### Tips for Success
 
