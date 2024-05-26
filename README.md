@@ -49,4 +49,4 @@ Your portfolio will be evaluated based on the following criteria:
 - **Test your site**: Make sure your portfolio works on different devices and browsers.
 - **Ask for feedback**: Show your site to peers or mentors and make improvements based on their suggestions.
 
-By following this brief and focusing on each criterion, you will be able to create a high-quality developer portfolio that effectively showcases your skills and projects. Good luck!
+By following this brief and focusing on each criterion, you will be able to create a simple developer portfolio that effectively showcases your skills and projects. Good luck!
